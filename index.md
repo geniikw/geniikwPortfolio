@@ -7,7 +7,7 @@ It is a simple drawing tool. Fully compatible with Animator.
 [AssetStore](https://assetstore.unity.com/packages/tools/modeling/data-renderer-2d-102377) [Github](https://github.com/geniikw/DataRenderer2D)
 
 ### reviews
-1. [AssetSales.net(japaness)](http://www.asset-sale.net/entry/VTS_Terrain_Streaming_Plugin_180907)
+1. [Asset-Sales.net(japaness)](http://www.asset-sale.net/entry/VTS_Terrain_Streaming_Plugin_180907)
 
 
 
